@@ -1,0 +1,12 @@
+Algorítimo hora de acordar
+
+Ínicio 
+1.	Se despertador tocando
+1.	Abrir os olhos;
+2.	Desligar despertador;
+3.	Se espreguiçar;
+4.	Levantar-se da cama;
+5.	Ir ao banheiro
+2.	Se não
+1.	Continuar dormindo 
+Fim 
